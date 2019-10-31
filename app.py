@@ -1,4 +1,5 @@
 name = input("aae tatti tera name kya hai? : ")
 print("Hello, " + name)
-print("Hello SOmeone")
-print("GG")
+
+age = input("What is your age? : ")
+print("Your age is : " + age)
